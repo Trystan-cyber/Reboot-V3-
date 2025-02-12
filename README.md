@@ -28,8 +28,6 @@ Press Install Fix and wait installation
 
 After installation end, press Finish & close
 
-Shutdown Client PC
-
 ⚙️ Disable Super Mode and Save It.
 
 ✅ Congratulations Epic Games Fixer installed!
